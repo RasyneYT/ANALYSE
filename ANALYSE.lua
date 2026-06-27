@@ -5,7 +5,7 @@
  / ___ \| |\  |/ ___ \| |___  |  | ____) | |___ 
 /_/   \_\_| \_/_/   \_\_____/ \__/|____/ |_____|
                                                                         
-     ~ Welcome to ANALYSE ~ for executing Roblox Lua (V4.0) ~ created by Rasyne 
+     ~ Welcome to ANALYSE ~ for executing Roblox Lua (V4.5) ~ created by Rasyne 
 
 ]]--
 
